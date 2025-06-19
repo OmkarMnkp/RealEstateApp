@@ -1,4 +1,4 @@
-
+// admin controller
 const { User, Property } = require('../models');
 
 exports.getOverview = async (req, res) => {
