@@ -14,7 +14,7 @@ const Hero = () => {
       }}
     >
       <h1 className="fw-bold mb-2">YOUR DREAM HOME</h1>
-      <h3 className="mb-4">IS ONE CLICK AWAY</h3>
+      <h3 className="mb-4">IS ONLY ONE CLICK AWAY</h3>
 
       <div className="bg-light text-dark p-4 rounded shadow w-75">
         <div className="row g-3">
